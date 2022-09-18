@@ -1,4 +1,4 @@
-# SPSGP-90008-Virtual-Internship---Android-Application-Development-Using-Kotlin
+# SPSGP-90008-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
 This repository contains the Project 2 (Grocery App) which was assigned as a internship project by SmartInternz Android Application Development Using Kotlin Internship
